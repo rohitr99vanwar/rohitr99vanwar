@@ -2,7 +2,7 @@
 
 <p align="center">
 <strong>Full-Stack Developer | AI & Systems Enthusiast | CSE Student</strong><br>
-📍 Based in Maharashtra, India | Fluent in Marathi, Hindi & English
+📍 Maharashtra, India | Fluent in Marathi, Hindi & English
 </p>
 
 ---
@@ -10,10 +10,9 @@
 ## 👨‍💻 About Me
 
 - 🎓 CSE Undergraduate at MBES COET, DBATU  
-- 🧠 Passionate about AI, Full-Stack Development, and Problem Solving  
-- 🔧 Creator of **ARIS** – An AI-powered Desktop Assistant  
-- 🚀 Focused on building scalable, intelligent applications  
-- 📚 Interested in Physics, Space, and System Design  
+- 🧠 Creator of **ARIS** – AI-powered Desktop Assistant  
+- 🔧 Passionate about AI, Full-Stack Web Development, and Problem Solving  
+- 🌌 Curious about Physics, Space, and Systems Programming  
 
 ---
 
@@ -39,24 +38,32 @@
 
 ---
 
-## 🚀 Current Work
+## 🚀 Projects
 
-- 🧠 **ARIS** – Advanced Responsive Intelligent System (AI Assistant)  
-- 🔍 Exploring AI/ML, Scalable Backend Systems & DevOps  
-- 🤝 Open to collaboration on impactful tech projects  
+- 🔹 [**ARIS**](https://github.com/rohitr99evanwar/ARIS) – AI-powered desktop assistant with voice/text control  
+- 🔹 [**Node**](https://github.com/rohitr99evanwar/node) – Personal Node.js experiments and web backend development  
+- 🔹 Working on scalable backend solutions and AI integrations  
 
 ---
 
-## 📈 GitHub Stats
+## 📘 Currently Exploring
+
+- Advanced AI & ML Systems  
+- Scalable APIs & Cloud DevOps  
+- Open-source contributions and collaborative projects  
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rohit-Revanwar&show_icons=true&theme=github_dark" width="400px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohit-Revanwar&theme=github-dark" width="400px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rohitr99evanwar&show_icons=true&theme=github_dark" width="400px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitr99evanwar&theme=github-dark" width="400px" />
 </p>
 
 ---
 
-## 📬 Get in Touch
+## 📬 Contact
 
 - 📧 [rohit.revanwar02@gmail.com](mailto:rohit.revanwar02@gmail.com)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/rohit-revanwar)  
@@ -66,4 +73,3 @@
 ---
 
 <p align="center"><em>"Build with purpose. Code with passion."</em></p>
-# rohitr99vanwar-README.md
