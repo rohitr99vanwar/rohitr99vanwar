@@ -40,8 +40,8 @@
 
 ## 🚀 Projects
 
-- 🔹 [**ARIS**](https://github.com/rohitr99evanwar/ARIS) – AI-powered desktop assistant with voice/text control  
-- 🔹 [**Node**](https://github.com/rohitr99evanwar/node) – Personal Node.js experiments and web backend development  
+- 🔹 [**ARIS**](https://github.com/rohitr99vanwar/ARIS) – AI-powered desktop assistant with voice/text control  
+- 🔹 [**Node**](https://github.com/rohitr99vanwar/node) – Personal Node.js experiments and web backend development  
 - 🔹 Working on scalable backend solutions and AI integrations  
 
 ---
@@ -57,8 +57,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohitr99evanwar&show_icons=true&theme=github_dark" width="400px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitr99evanwar&theme=github-dark" width="400px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rohitr99vanwar&show_icons=true&theme=github_dark" width="400px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitr99vanwar&theme=github-dark" width="400px" />
 </p>
 
 ---
