@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 CSE Undergraduate at MBES COET, DBATU  
+- 🎓 CSE Undergraduate at MBES COEA, DBATU  
 - 🧠 Creator of **ARIS** – AI-powered Desktop Assistant  
 - 🔧 Passionate about AI, Full-Stack Web Development, and Problem Solving  
 - 🌌 Curious about Physics, Space, and Systems Programming  
